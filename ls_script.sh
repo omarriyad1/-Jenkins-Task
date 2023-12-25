@@ -1,1 +1,2 @@
-dir
+#!/bin/bash
+ls
